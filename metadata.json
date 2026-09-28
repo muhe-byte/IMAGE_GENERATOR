@@ -1,0 +1,7 @@
+{
+  "name": "CineFrame AI",
+  "description": "Professional cinematic image generator and visual continuity manager for film and television production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
